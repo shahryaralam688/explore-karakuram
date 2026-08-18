@@ -1,0 +1,474 @@
+{
+  "assets": [
+    {
+      "contentType": "",
+      "id": "64880af0d78542d9",
+      "kind": "stylesheet",
+      "name": "styles.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/64880af0d78542d9.css",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1"
+    },
+    {
+      "contentType": "",
+      "id": "d8a86c41b51a9bac",
+      "kind": "stylesheet",
+      "name": "settings.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/d8a86c41b51a9bac.css",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.0.2"
+    },
+    {
+      "contentType": "",
+      "id": "15c7bbfb10126fb7",
+      "kind": "stylesheet",
+      "name": "sfsi-style.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/15c7bbfb10126fb7.css",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "eebba2624596800f",
+      "kind": "stylesheet",
+      "name": "animate.min.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/eebba2624596800f.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/animate.min.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "5cafc3b44427b6c7",
+      "kind": "stylesheet",
+      "name": "font-awesome.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/5cafc3b44427b6c7.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/font-awesome.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "b602261e0ff83b27",
+      "kind": "stylesheet",
+      "name": "bootstrap.min.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/b602261e0ff83b27.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/bootstrap.min.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "4575e2976a932f09",
+      "kind": "stylesheet",
+      "name": "flexslider.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/4575e2976a932f09.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/js/components/flexslider/flexslider.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "c153ed19c8589909",
+      "kind": "stylesheet",
+      "name": "jquery.bxslider.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/c153ed19c8589909.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/js/components/jquery.bxslider/jquery.bxslider.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "f74b750d78bc3051",
+      "kind": "stylesheet",
+      "name": "style-light-blue.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/f74b750d78bc3051.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/style-light-blue.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "725131243164e914",
+      "kind": "stylesheet",
+      "name": "custom.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/725131243164e914.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/custom.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "26d4b2e554193c71",
+      "kind": "stylesheet",
+      "name": "responsive.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/26d4b2e554193c71.css",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/css/responsive.css?ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": "",
+      "id": "be4c3620cebe03b9",
+      "kind": "stylesheet",
+      "name": "js_composer.min.css",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/be4c3620cebe03b9.css",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3e2080a52b6f1dce",
+      "kind": "image",
+      "name": "dummy.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/3e2080a52b6f1dce.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4ca137c9ba90c575",
+      "kind": "image",
+      "name": "ADVENTURE-01.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/4ca137c9ba90c575.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/03/ADVENTURE-01.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a87d86cf3f1048d9",
+      "kind": "image",
+      "name": "Discover-02.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/a87d86cf3f1048d9.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/03/Discover-02.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a1ca67b9bb4ac6c7",
+      "kind": "image",
+      "name": "Escape-01.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/a1ca67b9bb4ac6c7.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/03/Escape-01.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "eb212225e9741397",
+      "kind": "image",
+      "name": "01-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/eb212225e9741397.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/01-1.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "1357c6b6fa21f26e",
+      "kind": "image",
+      "name": "hover-effect.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/1357c6b6fa21f26e.png",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/images/icon/hover-effect.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2b7a5ca4964030c5",
+      "kind": "image",
+      "name": "global-map.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/2b7a5ca4964030c5.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/images/global-map.jpg"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "e6f19d18f086bbc7",
+      "kind": "font",
+      "name": "glyphicons-halflings-regular.woff",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/e6f19d18f086bbc7.woff",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "fd51b79e3c87af8d",
+      "kind": "image",
+      "name": "02-2.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/fd51b79e3c87af8d.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/02-2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "04333001cd2f1063",
+      "kind": "image",
+      "name": "03-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/04333001cd2f1063.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/03-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0542d2d9375550c6",
+      "kind": "image",
+      "name": "04-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/0542d2d9375550c6.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/04-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5bd156c561d53406",
+      "kind": "image",
+      "name": "05-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/5bd156c561d53406.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/05-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "013006dc79f08178",
+      "kind": "image",
+      "name": "06.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/013006dc79f08178.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/06.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1aad71b2c0ab9274",
+      "kind": "image",
+      "name": "07.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/1aad71b2c0ab9274.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/07.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0e18a96ad862ea97",
+      "kind": "image",
+      "name": "04-2.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/0e18a96ad862ea97.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/04-2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b538c052f7ebe50d",
+      "kind": "image",
+      "name": "03-2.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/b538c052f7ebe50d.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/03-2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8fec1c5e28a957bf",
+      "kind": "image",
+      "name": "05-2.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/8fec1c5e28a957bf.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/05-2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a40285dc540925b8",
+      "kind": "image",
+      "name": "02-3.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/a40285dc540925b8.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/02-3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3d54e500d0d1fa52",
+      "kind": "image",
+      "name": "01-2.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/3d54e500d0d1fa52.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/01-2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bc8bb5fb88d8cf44",
+      "kind": "image",
+      "name": "06-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/bc8bb5fb88d8cf44.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/06-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2919b372cbba1fef",
+      "kind": "image",
+      "name": "07-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/2919b372cbba1fef.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/07-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d99b707fb6f0735a",
+      "kind": "image",
+      "name": "DSC_3599-150x150.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/d99b707fb6f0735a.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2018/03/DSC_3599-150x150.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "061ce1bb3569dad7",
+      "kind": "image",
+      "name": "08.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/061ce1bb3569dad7.jpg",
+      "url": "https://explorekarakuram.com/wp-content/uploads/2017/02/08.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "023c99b1b17533de",
+      "kind": "image",
+      "name": "DSC_4949-150x150.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/023c99b1b17533de.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2018/03/DSC_4949-150x150.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ad6b0658562a1f83",
+      "kind": "image",
+      "name": "13-150x150.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/ad6b0658562a1f83.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2018/03/13-150x150.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "de55d574dd3aabd3",
+      "kind": "image",
+      "name": "DSC_2202-150x150.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/de55d574dd3aabd3.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2018/03/DSC_2202-150x150.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "debf9b5eaf801684",
+      "kind": "image",
+      "name": "9-64x64.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/debf9b5eaf801684.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2018/02/9-64x64.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "89eadb99c4630264",
+      "kind": "image",
+      "name": "thin_facebook.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/89eadb99c4630264.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_facebook.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "74e6774644593689",
+      "kind": "image",
+      "name": "facebook.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/74e6774644593689.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/facebook.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "626439024662a215",
+      "kind": "image",
+      "name": "thin_google.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/626439024662a215.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_google.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "310d50a333ff81fb",
+      "kind": "image",
+      "name": "google.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/310d50a333ff81fb.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/google.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "7fa59442b63dd4d2",
+      "kind": "image",
+      "name": "thin_twitter.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/7fa59442b63dd4d2.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_twitter.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "42e06e6b8cca2d08",
+      "kind": "image",
+      "name": "thin_linkedin.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/42e06e6b8cca2d08.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_linkedin.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6708ea0f1141cd74",
+      "kind": "image",
+      "name": "linkedIn.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/6708ea0f1141cd74.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/linkedIn.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5b4bfcc18b026488",
+      "kind": "image",
+      "name": "thin_instagram.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/5b4bfcc18b026488.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_instagram.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "a506cf0fc476010d",
+      "kind": "image",
+      "name": "bot_tip_icn.png",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/a506cf0fc476010d.png",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/ultimate-social-media-icons/images/bot_tip_icn.png"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "ff41743bbc3fa3c6",
+      "kind": "font",
+      "name": "fontawesome-webfont.woff",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/ff41743bbc3fa3c6.woff",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/fonts/fontawesome-webfont.woff?v=4.0.3"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "1f9e240df18eab2a",
+      "kind": "font",
+      "name": "soap-icons.woff",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/1f9e240df18eab2a.woff",
+      "url": "https://www.explorekarakuram.com/wp-content/themes/Travelo/fonts/soap-icons.woff?26664784"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "df926831f625b9b3",
+      "kind": "font",
+      "name": "revicons.woff",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/df926831f625b9b3.woff",
+      "url": "https://www.explorekarakuram.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dd05934da5c71e8b",
+      "kind": "image",
+      "name": "03.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/dd05934da5c71e8b.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2017/02/03.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5ddf7f8e913027bf",
+      "kind": "image",
+      "name": "01.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/5ddf7f8e913027bf.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2017/02/01.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "58bcbfa820279389",
+      "kind": "image",
+      "name": "02-1.jpg",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/58bcbfa820279389.jpg",
+      "url": "https://www.explorekarakuram.com/wp-content/uploads/2017/02/02-1.jpg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9fb545cb32c4a27f",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\LIMIAI~1\\AppData\\Local\\Temp/browser-use/assets/4bdcb56b-56ed-4b3f-986f-d7010b67c6d6/9fb545cb32c4a27f.svg",
+      "url": "inline-svg:9fb545cb32c4a27f"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "398c3e6e9f7aebdc",
+      "name": "css",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at A$ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "http://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900&ver=edf9744fb5959e05f0a08130805afc53"
+    },
+    {
+      "contentType": null,
+      "id": "a4ec129e84bdb763",
+      "name": "Newbiggg.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at A$ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://mail.explorekarakuram.com/wp-content/uploads/2018/02/Newbiggg.png"
+    },
+    {
+      "contentType": null,
+      "id": "ab6e4b00b483dfda",
+      "name": "Newbiggg.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at A$ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "http://mail.explorekarakuram.com/wp-content/uploads/2018/02/Newbiggg.png"
+    },
+    {
+      "contentType": null,
+      "id": "0d6199aae5e14c9f",
+      "name": "sodar",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at A$ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gda_r20260817&jk=4255497655221050&bg=!NDelN1XNAAYpRUYQCUU7AEcBe5WfOKzZp6P6UiaXNTtKEttXRIg3DAnDwcnmp9ThzuiR1YfuDK1XZVJp84ukFCc_WVPhOiMctOMXAYOhC_8TRi1sQRgmKgIAAALAUgAAAEhoAQd-ADcqKBSi8qB2GGo_-0YEnfADr9AfaeH7ax65MR2Frvvh5ZiMmqsCEO1el9yy4t9BrTp_W1WWd_femQKHMD4v8dpttVXJyEL6yU6pWuYdOpBdvZ8RWYS7GIcz3o2yX7gNNENk3ipuLqHtX73ZrolWygRutmsDhJ7j3ihbQZqTyJXYAUjVMagmQjdzvmUGuFob-062CM2SSw-BWmLADF2yHQ8fcWykeYjab2ilxc7GGlEntsERzgD2sgGBWq7qalYjoDZoI_TyqZFOn_9PJy7uOw73BEGVab25mUE3QlZXqT3Sm3-4sge9IQEV-3YXuIFUSLd0_HuRiSJS3FNELxIU0YAGVLfB85X4t9-TgiDqWzLhCxe_tRW0apRpBOxZcqp2aRuk5zRHCZhDOg1W5eO80iaKJKx5kkxByf67xhpLzmNYDuCCniG7_TnsTJXHspdIYj-sI4KmuhXZZ_X6P4ew1ao74YaUCnRH5PFtQFLEG_jCts3HGRrif7zAorLp51GQzjgAPinADjOc-niJJw8FZceXHIfMeMXiSdhOC-azxiYyXb7PhN3G1LVvBXXHst-Pu-kZTv_4PDRXY-p_LrohYvDKn7VFo5x9lXp-IpO8xgTMEKGYleu1tsezbqSu57LM_ylS2faUOHaAS80FlVDYSIMJQqDoNW1eqYJi-CyGLacBkZhYF8msU_yqalbmT_d62sg5hZUgeFtQgbH2JxqNPm2xWMk_j6LtGBId9musOwJWnJfrE2j7Bp_RcUMwNc0YWH2AMDN3EB9z6K-71myzD_HowXjhPUozFFX1mftwlca9MWZKYCHUaikZ23rzzk8GUWVVEUXsUYFx4FeKlUigH-7GdsYH_KyBmh5AWVk4OGOhLWDYMNSXVNQUct3WSjH097mm8VDQNpaCyNq2T9DyOC6dzczjW_qRnvCe1jm5q0t_C_M"
+    }
+  ]
+}
