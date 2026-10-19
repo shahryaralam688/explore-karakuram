@@ -1,37 +1,33 @@
 import type { Metadata } from "next";
-import { headers } from "next/headers";
 import "./globals.css";
+import "./site-pages.css";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const requestHeaders = await headers();
-  const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "explorekarakuram.com";
-  const protocol = requestHeaders.get("x-forwarded-proto") ?? (host.startsWith("localhost") ? "http" : "https");
-  const siteUrl = `${protocol}://${host}`;
-  const socialImage = `${siteUrl}/og.png`;
-
-  return {
-    metadataBase: new URL(siteUrl),
+export const metadata: Metadata = {
+    metadataBase: new URL("https://explore-karakuram.vercel.app"),
     title: {
-      default: "Explore Karakuram — Travel with Altitude",
-      template: "%s | Explore Karakuram",
+      default: "EXPLORE KARAKURAM — Pakistan, Beyond the Obvious",
+      template: "%s | EXPLORE KARAKURAM",
     },
     description:
-      "Private treks, cultural journeys and mountain expeditions across Pakistan's Karakuram, Himalaya and Hindu Kush.",
-    icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+      "Pakistan-based DMC and specialist tour operator creating private and tailor-made journeys across Pakistan.",
+    icons: {
+      icon: "/brand/explore-karakuram-seal.png",
+      shortcut: "/brand/explore-karakuram-seal.png",
+      apple: "/brand/explore-karakuram-seal.png",
+    },
     openGraph: {
-      title: "Explore Karakuram — Travel with Altitude",
-      description: "Private mountain journeys across the wild north of Pakistan.",
+      title: "EXPLORE KARAKURAM — Pakistan, Beyond the Obvious",
+      description: "Private and tailor-made journeys across Pakistan from the Karakoram to the Indus, desert and Arabian Sea.",
       type: "website",
-      images: [{ url: socialImage, width: 1732, height: 909, alt: "Explore Karakuram — Travel with Altitude" }],
+      images: [{ url: "/og-v2.png", width: 1732, height: 909, alt: "EXPLORE KARAKURAM — Pakistan, Beyond the Obvious" }],
     },
     twitter: {
       card: "summary_large_image",
-      title: "Explore Karakuram — Travel with Altitude",
-      description: "Private mountain journeys across the wild north of Pakistan.",
-      images: [socialImage],
+      title: "EXPLORE KARAKURAM — Pakistan, Beyond the Obvious",
+      description: "Private and tailor-made journeys across Pakistan from the Karakoram to the Indus, desert and Arabian Sea.",
+      images: ["/og-v2.png"],
     },
   };
-}
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return <html lang="en"><body>{children}</body></html>;
